@@ -34,7 +34,7 @@ Select the View & Send option from the left menu pane, then click Keystore file.
 On the next screen, click Select Wallet File, then navigate to the keystore directory inside your Node1 directory, select the file located there. there is no password so it would unlock by self.
 
 8.
-In the To Address box, type the account address from Node2, then fill in an arbitrary amount of ETH.
+In the To Address box, type the account address from Node2, then fill in an arbitrary amount of ALVZ.
 
 9.
 Confirm the transaction by clicking "Send Transaction", and the "Send" button in the pop-up window.
